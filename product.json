@@ -1,0 +1,18 @@
+{
+    "ipd" : {
+        "product" : "Super Ipad",
+        "price" : "549.99"
+    },
+    "mbp" : {
+        "product" : "MacBook Pro",
+        "price" : "1399.99"
+    },
+    "atv" : {
+        "product" : "Apple Tv",
+        "price" : "109.50"
+    },
+    "vga" : {
+        "product" : "Vga Adapter",
+        "price" : "30.00"
+    }
+}
